@@ -1,5 +1,5 @@
 {
-    "name":          "lastguest/murmurhash",
+    "name":          "roman-star-hero/murmurhash",
     "type":          "library",
     "description":   "MurmurHash3 Hash",
     "homepage":      "https://github.com/lastguest/murmurhash-php",
